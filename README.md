@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Java
 - 🔎 I’m also working as an IT Recruiter 
 - 😄You can reach me on linkedIn  https://www.linkedin.com/in/carolinasayago/
-- 📫 or email me: carolinasayago116@gmai.com
+- 📫 or email me: carolinasayago116@gmail.com
 
