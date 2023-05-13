@@ -14,7 +14,7 @@
 
 🐱 Cat Lover
 
-## 📫 Are you looking for a change?  
+## 🔎 Are you looking for a change?  
 Currently I'm looking for:
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Java Developers
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> .NET Developers
