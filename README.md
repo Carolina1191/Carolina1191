@@ -30,7 +30,7 @@ You gotta chance to join the IT team of a multinational company!!!
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Carolina1191)
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:carolinasayago116@foxmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolinasayago116@gmail.com)]
 
 <a href="https://www.instagram.com/carolinasayago_rrhh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rutvik_dev.desg" height="30" width="40" /></a>
 
