@@ -16,9 +16,9 @@
 
 ## 📫 Are you looking for a change?  
 Currently I'm looking for:
-## Java Developers
-## .NET Developers
-## Level 2 Support Technicians 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Java Developers
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> .NET Developers
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Level 2 Support Technicians 
 
 If you reside in Spain, I want to share more details with you! 
 You gotta chance to join the IT team of a multinational company!!!
