@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ## About me
-🙋‍♂️ I am Carolina,Im here to recruit you! I'm passionate of human resources and IT World.
+🙋‍♂️ I am Carolina! I'm passionate of human resources and IT World.
 
 💼 Im working as an IT Recruiter and Headhunter.
 
